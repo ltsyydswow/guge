@@ -6,7 +6,7 @@ export default {
 
     if (url.pathname.startsWith('/')) {
 
-      url.hostname = 'www.google.com'
+      url.hostname = 'www.pornhub.com'
 
       let new_request = new Request(url, request);
 
