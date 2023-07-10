@@ -6,7 +6,7 @@ export default {
 
     if (url.pathname.startsWith('/')) {
 
-      url.hostname = 'youtube.com'
+      url.hostname = 'mf.xn--vzyr4p.top'
 
       let new_request = new Request(url, request);
 
